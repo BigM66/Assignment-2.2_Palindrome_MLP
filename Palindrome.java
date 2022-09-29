@@ -13,7 +13,7 @@ import java.util.*;
 public class Palindrome {
 	
 	
-	/*adds a new item to the shopping cart
+	/* determines if our choosen word is a palindrome
 	 * @param a String, specifically the word that we want to test if it is a palindrome or not
 	 * @return true if the word is a Palindrome, or false if it is not one.
 	 */
